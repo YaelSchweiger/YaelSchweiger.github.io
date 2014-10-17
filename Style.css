@@ -50,13 +50,28 @@ table {
 
 /*Here is where my CSS code begins*/
 
+/*body*/
 
 body {
 	font-family: Helvetica;
 	font-size: 16px;
 	width: 70%;
 	background-color: #EEDDCD;
+	margin: 2em 2em 2em 2em;
 }
+
+/*trying*/
+
+img {
+	size: 60px;
+}
+
+.page-header {
+	margin: 2em 0em 2em 0em;
+}
+
+
+/*headlines*/
 
 h1 {font-size: 2em;
 	line-height: 2em;
